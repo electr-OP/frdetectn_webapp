@@ -10,9 +10,13 @@
           <option name="url" value="https://github.com/electr-OP/Smart-School-school-management-system.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/electr-OP/plotly_dash_tutorial.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="/opt/lampp/htdocs" />
+    <option name="cloneParentDir" value="$USER_HOME$/Desktop/Hayjay Programming/Jupyter Notebooks" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
